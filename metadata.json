@@ -1,0 +1,6 @@
+{
+  "name": "Berimas Jaya Sales Analytics",
+  "description": "Naive Bayes implementation for consumer sales determination at Berimas Jaya Store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Data Analysis", "Machine Learning"]
+}
